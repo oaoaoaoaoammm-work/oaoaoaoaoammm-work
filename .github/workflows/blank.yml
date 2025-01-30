@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: oaoaoaoaoammmWork
+          user: oaoaoaoaoammm-work
           template: terminal
           base: activity, repositories, metadata
           config_timezone: Europe/Lisbon
